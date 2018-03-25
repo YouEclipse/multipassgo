@@ -2,7 +2,7 @@ package multipassgo_test
 
 import (
 	"fmt"
-	"multipassgo"
+	"github.com/YouEclipse/multipassgo"
 	"testing"
 	"time"
 )
